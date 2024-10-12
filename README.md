@@ -19,7 +19,7 @@ Aside from coding, I love playing video games 🎮 and learning about new techno
 
 ## 📫 How to reach me:
 Feel free to connect with me via:
-- [LinkedIn](www.linkedin.com/in/lâm-duong-274883257)
+- [LinkedIn](www.linkedin.com/in/gnoudmal)
 - [Email](mailto:lamduonghgvt@gmail.com)
 
 Let's create something amazing together!
