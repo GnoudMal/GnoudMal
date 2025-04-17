@@ -1,40 +1,178 @@
-# 💫About Me :
-# 👋 Hi, I'm Lâm Dương!
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Profile;I'm+L%C3%A2m+D%C6%B0%C6%A1ng;Mobile+%26+Backend+Developer;Always+learning+new+things" alt="Typing SVG" />
+</h1>
 
-I'm a passionate software developer from Vietnam with a focus on **mobile app development** and **backend systems**. I enjoy building clean, efficient, and user-friendly applications, always looking for new challenges and ways to improve my skills.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GnoudMal&label=Profile%20Views&color=6366f1&style=flat" alt="Profile views" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/GnoudMal?style=social">
+</p>
 
-## 🚀 Skills:
-- **Languages**: Java, Kotlin, JavaScript, C/C++
-- **Mobile Development**: React Native, Kotlin (Jetpack Compose)
-- **Backend**: Node.js, Express.js
-- **Databases**: MongoDB, MySQL
-- **Version Control**: Git, GitHub
-- **Other Tools**:  Firebase, Retrofit, OkHttp
+<div align="center">
+  <a href="https://linkedin.com/in/gnoudmal">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://facebook.com/duoalm">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:lamduonghgvt@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
-## 🌱 What I'm currently learning:
-I'm currently diving deeper into **cloud computing** and **DevOps** practices, working with platforms like AWS and Docker to better understand how to scale and maintain apps in production environments.
+<img align="right" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding animation" />
 
-## 💡 Fun Fact:
-Aside from coding, I love playing video games 🎮 and learning about new technology trends! I'm always experimenting with new tools and frameworks to stay ahead of the curve.
+## 💫 About Me
 
-## 📫 How to reach me:
-Feel free to connect with me via:
-- [LinkedIn](www.linkedin.com/in/gnoudmal)
-- [Email](emailTo:lamduonghgvt@gmail.com)
+Hi there! I'm a passionate software developer from Vietnam 🇻🇳
 
-Let's create something amazing together!
+- 🚀 Specializing in **mobile development** and **backend systems**
+- 💡 Obsessed with creating clean, efficient, and user-friendly applications
+- 🌱 Currently exploring **Cloud Computing** and **DevOps**
+- 🔭 Open to collaborate on innovative projects
+- ⚡ Fun fact: When I'm not coding, I'm gaming 🎮
+
+<details>
+<summary>📃 More about me...</summary>
+<br>
+My journey in tech began with a deep curiosity about how applications work. This curiosity led me to explore various technologies, from mobile frameworks to backend systems, always pushing the boundaries of what I can build.
+
+I believe in code that not only works but also tells a story—clear, efficient, and elegantly structured. When building applications, I prioritize:
+- User experience above all
+- Performance optimization
+- Scalable architecture
+- Clean and maintainable code
+
+Beyond the world of code, I enjoy staying up-to-date with the latest tech trends, experimenting with new tools, and sharing knowledge with the community.
+</details>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+<h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,js,cpp&theme=dark" />
+  
+<h3>Mobile Development</h3>
+  <img src="https://skillicons.dev/icons?i=react,androidstudio,gradle&theme=dark" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white">
+
+<h3>Backend & Infrastructure</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb&theme=dark" />
+  
+<h3>Tools & Others</h3>
+  <img src="https://skillicons.dev/icons?i=git,figma&theme=dark" />
+</div>
+
+## 🌱 Currently Learning
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/>
+</div>
+
+<div align="center">
+  <h3>Expanding expertise in:</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://media.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" width="100px" alt="Cloud Services"/><br />
+        <span>Cloud Services</span>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100px" alt="DevOps"/><br />
+        <span>DevOps Practices</span>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/lRvDUYpTYiDnQGEtJF/giphy.gif" width="100px" alt="Microservices"/><br />
+        <span>Microservices</span>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="100px" alt="KMM"/><br />
+        <span>Kotlin Multiplatform</span>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🔥 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/GnoudMal/HealthMate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GnoudMal&repo=HealthMate&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/GnoudMal/AnotherProject">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GnoudMal&repo=HealthMate&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/duoalm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gnoudmal) 
+## 📊 GitHub Stats
 
-# 💻Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=GnoudMal&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GnoudMal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=GnoudMal&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GnoudMal&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GnoudMal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=GnoudMal&icon=6&color=4)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GnoudMal&theme=tokyonight&column=-1&no-frame=true" />
+</p>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GnoudMal&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GnoudMal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
+</div>
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GnoudMal&theme=tokyonight" />
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=GnoudMal&theme=tokyo-night&hide_border=true" />
+</div>
+
+<h2 align="center">🎯 Skills Progress</h2>
+
+<div align="center">
+  
+### 🚀 Skill Progress
+
+**Mobile Development**  
+![Mobile](https://progress-bar.dev/90/?width=400&color=6366f1)
+
+**Backend Development**  
+![Backend](https://progress-bar.dev/85/?width=400&color=6366f1)
+
+**UI/UX Design**  
+![UI/UX](https://progress-bar.dev/75/?width=400&color=6366f1)
+
+
+</div>
+
+<h2 align="center">📬 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/gnoudmal">
+    <img width="5%" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" alt="LinkedIn"/>
+  </a>
+  <a href="https://facebook.com/duoalm">
+    <img width="5%" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg" alt="Facebook"/>
+  </a>
+  <a href="mailto:lamduonghgvt@gmail.com">
+    <img width="5%" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" alt="Gmail"/>
+  </a>
+  <a href="https://example.com">
+    <img width="5%" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/website.svg" alt="Website"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
