@@ -140,14 +140,13 @@ Beyond the world of code, I enjoy staying up-to-date with the latest tech trends
   
 ### 🚀 Skill Progress
 
-**Mobile Development**  
-![Mobile](https://progress-bar.dev/90/?width=400&color=6366f1)
+Skill | Level
+Mobile Development | ▓▓▓▓▓░░░░░ 50%
 
-**Backend Development**  
-![Backend](https://progress-bar.dev/85/?width=400&color=6366f1)
+Backend Development | ▓▓▓▓▓▓░░░░ 60%
 
-**UI/UX Design**  
-![UI/UX](https://progress-bar.dev/75/?width=400&color=6366f1)
+UI/UX Design | ▓▓▓▓▓░░░░░ 50%
+
 
 
 </div>
@@ -164,9 +163,7 @@ Beyond the world of code, I enjoy staying up-to-date with the latest tech trends
   <a href="mailto:lamduonghgvt@gmail.com">
     <img width="5%" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" alt="Gmail"/>
   </a>
-  <a href="https://example.com">
-    <img width="5%" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/website.svg" alt="Website"/>
-  </a>
+  
 </p>
 
 <div align="center">
