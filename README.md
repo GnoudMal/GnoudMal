@@ -134,7 +134,7 @@ Beyond the world of code, I enjoy staying up-to-date with the latest tech trends
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=GnoudMal&theme=tokyo-night&hide_border=true" />
 </div>
 
-<h2 align="center">🎯 Skills Progress</h2>
+<h2 align="center">🎯 Skills Progress </h2>
 
 <div align="center">
   
